@@ -52,4 +52,7 @@ translation, access control and quality assurance.
 * `Transifex <http://trac.transifex.org/>`_ -- A web based front end for
   version control systems with an editing interface. GPL, but demands the
   signing of a Contributor License Agreement to contribute
-
+* `POEditor <https://poeditor.com/>`_ --  A web based translation platform
+  for managing software localization projects. 
+  Initially developed for working with .po files only.
+  Free for limited use and OSI approved Open Source projects.
